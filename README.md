@@ -1,2 +1,2 @@
 # Basic-Algorithm-Scripting
-JavaScript exercises
+JavaScript exercises from FreeCodeCamp.
